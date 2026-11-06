@@ -1,0 +1,8 @@
+PORTAL QR — PALAZZO SILVIA FONSECA DINIZ — V2
+
+Publique index.html e a pasta projetos no mesmo diretório.
+Os QR-Codes só devem ser impressos após publicar o portal e confirmar o endereço público final.
+
+Alterações V2: símbolo solar em vez do selo V1; nomes dos pavimentos atualizados; botão Ver do Catálogo de Colunas abre ficha completa, com links dos PDFs correspondentes e anotações locais.
+
+Atenção: levantamento de colunas preliminar, confira diâmetros e revisões dos PDFs. Ao publicar em site público, documentos tornam-se acessíveis a quem possuir os links.
